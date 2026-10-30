@@ -1,2 +1,2 @@
 # tp-github-actions-events
- premier action
+ premier action : run on push
